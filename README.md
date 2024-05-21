@@ -14,6 +14,12 @@ Load the CSV Data into the Power BI. Perform transform to remove duplicates, err
 **Visualization Charts & Tools.**
 Slicers. Card. Treemap Donut chart Stacked Column chart Table Stacked Bar chart Area chart
 
+**ScreenShot**
+Whole Dashboard
+![image](https://github.com/aania19/HR-Analytics-Dashboard/assets/170446058/25f146d3-f5e6-42ff-96c1-40eeb67f8168)
+
+
+
 
 
 
