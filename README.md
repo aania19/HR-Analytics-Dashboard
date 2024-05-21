@@ -14,6 +14,6 @@ Load the CSV Data into the Power BI. Perform transform to remove duplicates, err
 **Visualization Charts & Tools.**
 Slicers. Card. Treemap Donut chart Stacked Column chart Table Stacked Bar chart Area chart
 
-**ScreenShots.**
-Whole Dashboard image
+
+
 
