@@ -12,13 +12,13 @@ In this dashboard firstly we will display the filters by department. Then we cre
 Load the CSV Data into the Power BI. Perform transform to remove duplicates, error values, etc. Created an interactive dashboard to track and analyze online sales data. Used complex parameters to drill down in worksheets and customization using filters and slicers. Created connections, joined new tables, calculated to manipulate data, and enabled user-driven parameters for visualizations. Used different types of customized visualization to create an amazing dashboard.
 
 # Visualization Charts & Tools
-Slicers Card
-Treemap
-Donut chart
-Stacked Column chart
-Table
-Stacked Bar chart
-Area chart
+Slicers Card,
+Treemap,
+Donut chart,
+Stacked Column chart,
+Table,
+Stacked Bar chart,
+Area chart.
 
 # ScreenShot
 Whole Dashboard
